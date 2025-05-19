@@ -1,0 +1,57 @@
+﻿@page "/updateProd/{id:int}"
+
+@using CleanUI.Models
+@using CleanUI.Services
+
+@inject ProductService productService
+@inject NavigationManager nav
+
+<div class="container">
+    <h3>Edit Product Component.</h3>
+    <h3>Id is ==> @id</h3>
+    @if (product == null)
+    {
+        <p>Loading...</p>
+    } else
+    {
+    <div class="row mt-5">
+        <div class="col-8 ">
+                <EditForm Model="@product" OnValidSubmit="HandleValidSubmit">
+                <label>Name</label>
+                <InputText @bind-Value="product.Name" class="form-control" />
+
+                <label>Description</label>
+                <InputText @bind-Value="product.Desc" class="form-control" />
+
+                <label>Rate</label>
+                <InputNumber @bind-Value="product.Rate" class="form-control" />
+
+                <button type="submit" class="btn btn-primary mt-2  ">Update</button>
+            </EditForm>
+        </div>
+    </div>
+    }
+
+</div>
+
+
+
+@code {
+
+    [Parameter]
+    public int id { get; set; }
+
+
+    Product product;
+
+    protected override async Task OnInitializedAsync()
+    {
+        product = await productService.GetProductById(id);
+    }
+    public async Task HandleValidSubmit()
+    {
+        await productService.UpdateProduct(product);
+        nav.NavigateTo("/fetchproducts");
+    }
+
+}

@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D912BE4-3EB7-485B-9B25-EE7D3A8ED73B}|CleanUI\\CleanUI.csproj|c:\\users\\musab\\source\\repos\\mujahid\\18_cleanui\\cleanui\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D912BE4-3EB7-485B-9B25-EE7D3A8ED73B}|CleanUI\\CleanUI.csproj|solutionrelative:cleanui\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D912BE4-3EB7-485B-9B25-EE7D3A8ED73B}|CleanUI\\CleanUI.csproj|c:\\users\\musab\\source\\repos\\mujahid\\18_cleanui\\cleanui\\pages\\productcomponents\\fetchproductscomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D912BE4-3EB7-485B-9B25-EE7D3A8ED73B}|CleanUI\\CleanUI.csproj|solutionrelative:cleanui\\pages\\productcomponents\\fetchproductscomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D912BE4-3EB7-485B-9B25-EE7D3A8ED73B}|CleanUI\\CleanUI.csproj|c:\\users\\musab\\source\\repos\\mujahid\\18_cleanui\\cleanui\\pages\\productcomponents\\editproductcomp.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D912BE4-3EB7-485B-9B25-EE7D3A8ED73B}|CleanUI\\CleanUI.csproj|solutionrelative:cleanui\\pages\\productcomponents\\editproductcomp.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D912BE4-3EB7-485B-9B25-EE7D3A8ED73B}|CleanUI\\CleanUI.csproj|c:\\users\\musab\\source\\repos\\mujahid\\18_cleanui\\cleanui\\pages\\productcomponents\\createproductcomp.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D912BE4-3EB7-485B-9B25-EE7D3A8ED73B}|CleanUI\\CleanUI.csproj|solutionrelative:cleanui\\pages\\productcomponents\\createproductcomp.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D912BE4-3EB7-485B-9B25-EE7D3A8ED73B}|CleanUI\\CleanUI.csproj|c:\\users\\musab\\source\\repos\\mujahid\\18_cleanui\\cleanui\\pages\\productcomponents\\productdetailscomp.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D912BE4-3EB7-485B-9B25-EE7D3A8ED73B}|CleanUI\\CleanUI.csproj|solutionrelative:cleanui\\pages\\productcomponents\\productdetailscomp.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D912BE4-3EB7-485B-9B25-EE7D3A8ED73B}|CleanUI\\CleanUI.csproj|c:\\users\\musab\\source\\repos\\mujahid\\18_cleanui\\cleanui\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D912BE4-3EB7-485B-9B25-EE7D3A8ED73B}|CleanUI\\CleanUI.csproj|solutionrelative:cleanui\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateProductComp.razor",
+              "DocumentMoniker": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanUI\\CleanUI\\Pages\\ProductComponents\\CreateProductComp.razor",
+              "RelativeDocumentMoniker": "CleanUI\\Pages\\ProductComponents\\CreateProductComp.razor",
+              "ToolTip": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanUI\\CleanUI\\Pages\\ProductComponents\\CreateProductComp.razor",
+              "RelativeToolTip": "CleanUI\\Pages\\ProductComponents\\CreateProductComp.razor",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T12:35:20.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanUI\\CleanUI\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "CleanUI\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanUI\\CleanUI\\Services\\ProductService.cs",
+              "RelativeToolTip": "CleanUI\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T08:45:06.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditProductComp.razor",
+              "DocumentMoniker": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanUI\\CleanUI\\Pages\\ProductComponents\\EditProductComp.razor",
+              "RelativeDocumentMoniker": "CleanUI\\Pages\\ProductComponents\\EditProductComp.razor",
+              "ToolTip": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanUI\\CleanUI\\Pages\\ProductComponents\\EditProductComp.razor",
+              "RelativeToolTip": "CleanUI\\Pages\\ProductComponents\\EditProductComp.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T08:40:15.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FetchProductsComponent.razor",
+              "DocumentMoniker": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanUI\\CleanUI\\Pages\\ProductComponents\\FetchProductsComponent.razor",
+              "RelativeDocumentMoniker": "CleanUI\\Pages\\ProductComponents\\FetchProductsComponent.razor",
+              "ToolTip": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanUI\\CleanUI\\Pages\\ProductComponents\\FetchProductsComponent.razor",
+              "RelativeToolTip": "CleanUI\\Pages\\ProductComponents\\FetchProductsComponent.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T08:35:56.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanUI\\CleanUI\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "CleanUI\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanUI\\CleanUI\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "CleanUI\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T08:34:53.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDetailsComp.razor",
+              "DocumentMoniker": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanUI\\CleanUI\\Pages\\ProductComponents\\ProductDetailsComp.razor",
+              "RelativeDocumentMoniker": "CleanUI\\Pages\\ProductComponents\\ProductDetailsComp.razor",
+              "ToolTip": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanUI\\CleanUI\\Pages\\ProductComponents\\ProductDetailsComp.razor",
+              "RelativeToolTip": "CleanUI\\Pages\\ProductComponents\\ProductDetailsComp.razor",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T08:27:57.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

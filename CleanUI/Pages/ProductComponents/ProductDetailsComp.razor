@@ -1,0 +1,42 @@
+﻿@page "/showProd/{id:int}"
+
+
+@using CleanUI.Models;
+@using CleanUI.Services;
+
+@inject ProductService productService
+
+
+@if (product == null)
+{
+    <p>Loading...</p>
+}
+else
+{
+    <div>
+        <p><strong>ID:</strong> @product.Id</p>
+        <p><strong>Name:</strong> @product.Name</p>
+        <p><strong>Price:</strong> ₹@product.Rate</p>
+    </div>
+}
+
+<div class="d-flex gap-3">
+    <a href="/updateProd/@product.Id">Edit Product</a>
+    <NavLink href="/fetchproducts">Back To All Data</NavLink>
+</div>
+
+
+@code {
+
+    [Parameter]
+    public int id { get; set; }
+
+    Product product;
+
+    protected override async Task OnInitializedAsync()
+    {
+        product = await productService.GetProductById(id);
+    }
+
+
+}
