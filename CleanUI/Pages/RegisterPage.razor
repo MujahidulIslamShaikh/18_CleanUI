@@ -1,0 +1,28 @@
+﻿@page "/register"
+
+@using CleanUI.Models
+@using CleanUI.Services
+
+@inject AuthService authService
+
+<h3>Register</h3>
+
+<input @bind="model.Email" placeholder="Email" />
+<input @bind="model.Password" placeholder="Password" type="password" />
+<button @onclick="RegisterUser">Register</button>
+
+<p>@message</p>
+
+@code {
+    RegisterModel model = new();    
+    string message;
+
+    async Task RegisterUser()
+    {
+        message = await authService.Register(model);
+    }
+}
+
+
+
+

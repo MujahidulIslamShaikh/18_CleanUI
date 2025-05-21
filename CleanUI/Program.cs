@@ -1,3 +1,4 @@
+using Clean.UI.Services;
 using CleanUI;
 using CleanUI.Services;
 using Microsoft.AspNetCore.Components.Web;
@@ -10,5 +11,8 @@ builder.RootComponents.Add<HeadOutlet>("head::after");
 // API base URL
 builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri("https://localhost:7094/") });
 builder.Services.AddScoped<ProductService>();
+
+builder.Services.AddScoped<AuthService>();
+
 
 await builder.Build().RunAsync();
