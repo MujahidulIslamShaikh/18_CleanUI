@@ -1,5 +1,4 @@
 ﻿using CleanUI.Models;
-using Microsoft.VisualBasic.FileIO;
 using System.Net.Http.Json;
 
 namespace CleanUI.Services
@@ -7,7 +6,7 @@ namespace CleanUI.Services
     public class ProductService
     {
         private readonly HttpClient _http;
-
+           
         public ProductService(HttpClient http)
         {
             _http = http;

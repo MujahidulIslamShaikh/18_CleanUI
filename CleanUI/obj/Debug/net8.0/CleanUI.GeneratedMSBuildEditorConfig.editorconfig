@@ -30,8 +30,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/MUSAB/source/repos/Mujahid/18_CleanUI/CleanUI/Pages/EmployeeCommand/CreateEmployeeCommand.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVDb21tYW5kXENyZWF0ZUVtcGxveWVlQ29tbWFuZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/MUSAB/source/repos/Mujahid/18_CleanUI/CleanUI/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MUSAB/source/repos/Mujahid/18_CleanUI/CleanUI/Pages/LoginPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5QYWdlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/MUSAB/source/repos/Mujahid/18_CleanUI/CleanUI/Pages/ProductComponents/CreateProductComp.razor]

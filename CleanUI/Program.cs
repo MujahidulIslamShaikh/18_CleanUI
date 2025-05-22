@@ -1,4 +1,3 @@
-using Clean.UI.Services;
 using CleanUI;
 using CleanUI.Services;
 using Microsoft.AspNetCore.Components.Web;
@@ -8,11 +7,16 @@ var builder = WebAssemblyHostBuilder.CreateDefault(args);
 builder.RootComponents.Add<App>("#app");
 builder.RootComponents.Add<HeadOutlet>("head::after");
 
-// API base URL
-builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri("https://localhost:7094/") });
+// Base url
+builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri("https://localhost:7094") });
+
+
 builder.Services.AddScoped<ProductService>();
 
+
 builder.Services.AddScoped<AuthService>();
+builder.Services.AddScoped<EmployeeService>();
+
 
 
 await builder.Build().RunAsync();

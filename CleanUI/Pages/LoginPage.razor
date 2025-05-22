@@ -1,26 +1,26 @@
-﻿@page "/register"
+﻿@page "/login"
 
 @using CleanUI.Services
 @using CleanUI.Models
 
 @inject AuthService authService
 
-<h3>Register</h3>
+<h3>Login</h3>
 
 <input @bind="model.Email" placeholder="Email" />
 <input @bind="model.Password" placeholder="Password" type="password" />
-<button @onclick="RegisterUser">Register</button>
+<button @onclick="LoginUser">Login</button>
 
 <p>@message</p>
 
-@code {   
-    RegisterModel model = new();
-    string message;
+@code {
 
+    LoginModel model = new();
+    string message;   
 
-    async Task RegisterUser()
+    async Task LoginUser()  
     {
-        message = await authService.Register(model);
+        message = await authService.Login(model);
     }
 
 

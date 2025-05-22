@@ -1,0 +1,49 @@
+﻿@page "/createEmployee"
+
+@using CleanUI.Models
+@using CleanUI.Services
+@inject EmployeeService EmployeeService
+@inject NavigationManager Navigation
+
+<h1>Create Employee</h1>
+
+<div class="container">
+    <div class="row mt-5">
+        <div class="col-8">
+            <EditForm Model="@Employee" OnValidSubmit="HandleSubmit">
+                <DataAnnotationsValidator />
+                <ValidationSummary />
+
+                <div class="mb-3">
+                    <label>Employee Name</label>
+                    <InputText @bind-Value="Employee.Name" class="form-control" />
+                </div>
+
+                <div class="mb-3">
+                    <label>Role</label>
+                    <InputText @bind-Value="Employee.Role" class="form-control" />
+                </div>
+
+                <div class="mb-3">
+                    <label>Salary</label>
+                    <InputNumber @bind-Value="Employee.Salary" class="form-control" />
+                </div>
+
+                <div class="d-flex gap-3">
+                    <button type="submit" class="btn btn-primary">Create</button>
+                    <a href="/fetchproducts" class="btn btn-secondary">Back To All Data</a>
+                </div>
+            </EditForm>
+        </div>
+    </div>
+</div>
+
+@code {
+    EmployeeModel Employee = new();
+
+    private async Task HandleSubmit()
+    {
+        await EmployeeService.CreateEmpoloyee(Employee);
+        Navigation.NavigateTo("/fetchproducts");
+    }
+}

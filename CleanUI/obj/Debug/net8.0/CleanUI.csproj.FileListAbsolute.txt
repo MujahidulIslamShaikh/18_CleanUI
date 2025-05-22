@@ -1029,6 +1029,15 @@ C:\Users\MUSAB\source\repos\CleanUI\CleanUI\obj\Debug\net8.0\CleanUI.dll
 C:\Users\MUSAB\source\repos\CleanUI\CleanUI\obj\Debug\net8.0\refint\CleanUI.dll
 C:\Users\MUSAB\source\repos\CleanUI\CleanUI\obj\Debug\net8.0\CleanUI.pdb
 C:\Users\MUSAB\source\repos\CleanUI\CleanUI\obj\Debug\net8.0\ref\CleanUI.dll
+C:\Users\MUSAB\source\repos\Mujahid\18_CleanUI\CleanUI\obj\Debug\net8.0\CleanUI.pdb
+C:\Users\MUSAB\source\repos\Mujahid\18_CleanUI\CleanUI\obj\Debug\net8.0\CleanUI.csproj.AssemblyReference.cache
+C:\Users\MUSAB\source\repos\Mujahid\18_CleanUI\CleanUI\obj\Debug\net8.0\CleanUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MUSAB\source\repos\Mujahid\18_CleanUI\CleanUI\obj\Debug\net8.0\CleanUI.AssemblyInfoInputs.cache
+C:\Users\MUSAB\source\repos\Mujahid\18_CleanUI\CleanUI\obj\Debug\net8.0\CleanUI.AssemblyInfo.cs
+C:\Users\MUSAB\source\repos\Mujahid\18_CleanUI\CleanUI\obj\Debug\net8.0\CleanUI.csproj.CoreCompileInputs.cache
+C:\Users\MUSAB\source\repos\Mujahid\18_CleanUI\CleanUI\obj\Debug\net8.0\CleanUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MUSAB\source\repos\Mujahid\18_CleanUI\CleanUI\obj\Debug\net8.0\CleanUI.sourcelink.json
+C:\Users\MUSAB\source\repos\Mujahid\18_CleanUI\CleanUI\obj\Debug\net8.0\CleanUI.dll
 C:\Users\MUSAB\source\repos\Mujahid\18_CleanUI\CleanUI\bin\Debug\net8.0\wwwroot\_framework\blazor.boot.json
 C:\Users\MUSAB\source\repos\Mujahid\18_CleanUI\CleanUI\bin\Debug\net8.0\wwwroot\_framework\blazor.webassembly.js
 C:\Users\MUSAB\source\repos\Mujahid\18_CleanUI\CleanUI\bin\Debug\net8.0\wwwroot\_framework\CleanUI.pdb
@@ -1640,13 +1649,6 @@ C:\Users\MUSAB\source\repos\Mujahid\18_CleanUI\CleanUI\bin\Debug\net8.0\dotnet.r
 C:\Users\MUSAB\source\repos\Mujahid\18_CleanUI\CleanUI\bin\Debug\net8.0\icudt_CJK.dat
 C:\Users\MUSAB\source\repos\Mujahid\18_CleanUI\CleanUI\bin\Debug\net8.0\icudt_EFIGS.dat
 C:\Users\MUSAB\source\repos\Mujahid\18_CleanUI\CleanUI\bin\Debug\net8.0\icudt_no_CJK.dat
-C:\Users\MUSAB\source\repos\Mujahid\18_CleanUI\CleanUI\obj\Debug\net8.0\CleanUI.csproj.AssemblyReference.cache
-C:\Users\MUSAB\source\repos\Mujahid\18_CleanUI\CleanUI\obj\Debug\net8.0\CleanUI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\MUSAB\source\repos\Mujahid\18_CleanUI\CleanUI\obj\Debug\net8.0\CleanUI.AssemblyInfoInputs.cache
-C:\Users\MUSAB\source\repos\Mujahid\18_CleanUI\CleanUI\obj\Debug\net8.0\CleanUI.AssemblyInfo.cs
-C:\Users\MUSAB\source\repos\Mujahid\18_CleanUI\CleanUI\obj\Debug\net8.0\CleanUI.csproj.CoreCompileInputs.cache
-C:\Users\MUSAB\source\repos\Mujahid\18_CleanUI\CleanUI\obj\Debug\net8.0\CleanUI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\MUSAB\source\repos\Mujahid\18_CleanUI\CleanUI\obj\Debug\net8.0\CleanUI.sourcelink.json
 C:\Users\MUSAB\source\repos\Mujahid\18_CleanUI\CleanUI\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Authorization.wasm
 C:\Users\MUSAB\source\repos\Mujahid\18_CleanUI\CleanUI\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.wasm
 C:\Users\MUSAB\source\repos\Mujahid\18_CleanUI\CleanUI\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.Forms.wasm
@@ -2057,7 +2059,5 @@ C:\Users\MUSAB\source\repos\Mujahid\18_CleanUI\CleanUI\obj\Debug\net8.0\compress
 C:\Users\MUSAB\source\repos\Mujahid\18_CleanUI\CleanUI\obj\Debug\net8.0\compressed\1a426nb68f.gz
 C:\Users\MUSAB\source\repos\Mujahid\18_CleanUI\CleanUI\obj\Debug\net8.0\compressed\fveyapdap7.gz
 C:\Users\MUSAB\source\repos\Mujahid\18_CleanUI\CleanUI\obj\Debug\net8.0\CleanUI.csproj.Up2Date
-C:\Users\MUSAB\source\repos\Mujahid\18_CleanUI\CleanUI\obj\Debug\net8.0\CleanUI.dll
 C:\Users\MUSAB\source\repos\Mujahid\18_CleanUI\CleanUI\obj\Debug\net8.0\refint\CleanUI.dll
-C:\Users\MUSAB\source\repos\Mujahid\18_CleanUI\CleanUI\obj\Debug\net8.0\CleanUI.pdb
 C:\Users\MUSAB\source\repos\Mujahid\18_CleanUI\CleanUI\obj\Debug\net8.0\ref\CleanUI.dll
