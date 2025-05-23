@@ -1,3 +1,4 @@
+using Blazored.LocalStorage;
 using CleanUI;
 using CleanUI.Services;
 using Microsoft.AspNetCore.Components.Web;
@@ -16,6 +17,7 @@ builder.Services.AddScoped<ProductService>();
 
 builder.Services.AddScoped<AuthService>();
 builder.Services.AddScoped<EmployeeService>();
+builder.Services.AddBlazoredLocalStorage();
 
 
 

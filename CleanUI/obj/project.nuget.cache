@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "um9+q/95p9w=",
+  "dgSpecHash": "N4cJTCs7UQ4=",
   "success": true,
   "projectFilePath": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanUI\\CleanUI\\CleanUI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\MUSAB\\.nuget\\packages\\blazored.localstorage\\4.5.0\\blazored.localstorage.4.5.0.nupkg.sha512",
     "C:\\Users\\MUSAB\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.7\\microsoft.aspnetcore.authorization.8.0.7.nupkg.sha512",
     "C:\\Users\\MUSAB\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.7\\microsoft.aspnetcore.components.8.0.7.nupkg.sha512",
     "C:\\Users\\MUSAB\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.7\\microsoft.aspnetcore.components.analyzers.8.0.7.nupkg.sha512",

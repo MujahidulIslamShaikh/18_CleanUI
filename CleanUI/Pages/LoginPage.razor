@@ -14,14 +14,24 @@
 <p>@message</p>
 
 @code {
-
-    LoginModel model = new();
-    string message;   
+    LoginModel model = new();   
+    string message;      
 
     async Task LoginUser()  
     {
         message = await authService.Login(model);
     }
-
-
 }
+
+
+@* @code {
+    string email = "";
+    string password = "";
+    string message = "";
+
+    async Task LoginUser()
+    {
+        var response = await Http.PostAsJsonAsync("api/Auth/login", new { Email = email, Password = password });
+        message = await response.Content.ReadAsStringAsync();
+    }
+} *@

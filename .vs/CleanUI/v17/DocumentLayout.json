@@ -1,12 +1,156 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanUI\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D912BE4-3EB7-485B-9B25-EE7D3A8ED73B}|CleanUI\\CleanUI.csproj|c:\\users\\musab\\source\\repos\\mujahid\\18_cleanui\\cleanui\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D912BE4-3EB7-485B-9B25-EE7D3A8ED73B}|CleanUI\\CleanUI.csproj|solutionrelative:cleanui\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D912BE4-3EB7-485B-9B25-EE7D3A8ED73B}|CleanUI\\CleanUI.csproj|c:\\users\\musab\\source\\repos\\mujahid\\18_cleanui\\cleanui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D912BE4-3EB7-485B-9B25-EE7D3A8ED73B}|CleanUI\\CleanUI.csproj|solutionrelative:cleanui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D912BE4-3EB7-485B-9B25-EE7D3A8ED73B}|CleanUI\\CleanUI.csproj|c:\\users\\musab\\source\\repos\\mujahid\\18_cleanui\\cleanui\\pages\\loginpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D912BE4-3EB7-485B-9B25-EE7D3A8ED73B}|CleanUI\\CleanUI.csproj|solutionrelative:cleanui\\pages\\loginpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D912BE4-3EB7-485B-9B25-EE7D3A8ED73B}|CleanUI\\CleanUI.csproj|c:\\users\\musab\\source\\repos\\mujahid\\18_cleanui\\cleanui\\models\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D912BE4-3EB7-485B-9B25-EE7D3A8ED73B}|CleanUI\\CleanUI.csproj|solutionrelative:cleanui\\models\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D912BE4-3EB7-485B-9B25-EE7D3A8ED73B}|CleanUI\\CleanUI.csproj|c:\\users\\musab\\source\\repos\\mujahid\\18_cleanui\\cleanui\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D912BE4-3EB7-485B-9B25-EE7D3A8ED73B}|CleanUI\\CleanUI.csproj|solutionrelative:cleanui\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D912BE4-3EB7-485B-9B25-EE7D3A8ED73B}|CleanUI\\CleanUI.csproj|c:\\users\\musab\\source\\repos\\mujahid\\18_cleanui\\cleanui\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D912BE4-3EB7-485B-9B25-EE7D3A8ED73B}|CleanUI\\CleanUI.csproj|solutionrelative:cleanui\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D912BE4-3EB7-485B-9B25-EE7D3A8ED73B}|CleanUI\\CleanUI.csproj|c:\\users\\musab\\source\\repos\\mujahid\\18_cleanui\\cleanui\\pages\\registerpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D912BE4-3EB7-485B-9B25-EE7D3A8ED73B}|CleanUI\\CleanUI.csproj|solutionrelative:cleanui\\pages\\registerpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D912BE4-3EB7-485B-9B25-EE7D3A8ED73B}|CleanUI\\CleanUI.csproj|c:\\users\\musab\\source\\repos\\mujahid\\18_cleanui\\cleanui\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D912BE4-3EB7-485B-9B25-EE7D3A8ED73B}|CleanUI\\CleanUI.csproj|solutionrelative:cleanui\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 100,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenResponse.cs",
+              "DocumentMoniker": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanUI\\CleanUI\\Models\\TokenResponse.cs",
+              "RelativeDocumentMoniker": "CleanUI\\Models\\TokenResponse.cs",
+              "ToolTip": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanUI\\CleanUI\\Models\\TokenResponse.cs",
+              "RelativeToolTip": "CleanUI\\Models\\TokenResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:46:11.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanUI\\CleanUI\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "CleanUI\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanUI\\CleanUI\\Services\\AuthService.cs",
+              "RelativeToolTip": "CleanUI\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAlwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:13:26.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginPage.razor",
+              "DocumentMoniker": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanUI\\CleanUI\\Pages\\LoginPage.razor",
+              "RelativeDocumentMoniker": "CleanUI\\Pages\\LoginPage.razor",
+              "ToolTip": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanUI\\CleanUI\\Pages\\LoginPage.razor",
+              "RelativeToolTip": "CleanUI\\Pages\\LoginPage.razor",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T11:13:11.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterPage.razor",
+              "DocumentMoniker": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanUI\\CleanUI\\Pages\\RegisterPage.razor",
+              "RelativeDocumentMoniker": "CleanUI\\Pages\\RegisterPage.razor",
+              "ToolTip": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanUI\\CleanUI\\Pages\\RegisterPage.razor",
+              "RelativeToolTip": "CleanUI\\Pages\\RegisterPage.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T11:13:09.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanUI\\CleanUI\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "CleanUI\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanUI\\CleanUI\\Models\\LoginModel.cs",
+              "RelativeToolTip": "CleanUI\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:11:36.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanUI\\CleanUI\\Program.cs",
+              "RelativeDocumentMoniker": "CleanUI\\Program.cs",
+              "ToolTip": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanUI\\CleanUI\\Program.cs",
+              "RelativeToolTip": "CleanUI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T12:59:24.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanUI\\CleanUI\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "CleanUI\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanUI\\CleanUI\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "CleanUI\\Services\\EmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:47:55.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanUI\\CleanUI\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "CleanUI\\Models\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanUI\\CleanUI\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "CleanUI\\Models\\RegisterModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:11:20.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

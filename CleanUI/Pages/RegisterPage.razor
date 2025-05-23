@@ -16,8 +16,7 @@
 @code {   
     RegisterModel model = new();
     string message;
-
-
+       
     async Task RegisterUser()
     {
         message = await authService.Register(model);
@@ -25,3 +24,16 @@
 
 
 }
+
+@* @code {
+    string email = "";
+    string password = "";
+    string message = "";
+
+    async Task RegisterUser()
+    {
+        var response = await Http.PostAsJsonAsync("api/Auth/register", new { Email = email, Password = password });
+        message = await response.Content.ReadAsStringAsync();
+    }
+}
+ *@

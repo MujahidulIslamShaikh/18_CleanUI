@@ -21,7 +21,11 @@ namespace CleanUI.Services
         public async Task<string> Login(LoginModel model)
         {
             var response = await _http.PostAsJsonAsync("api/auth/login", model);
-            return await response.Content.ReadAsStringAsync();
+            //return await response.Content.ReadAsStringAsync();
+            var result = await response.Content.ReadFromJsonAsync<TokenResponse>();
+            return result?.Token ?? "Login failed";
+
         }
     }
 }
+
