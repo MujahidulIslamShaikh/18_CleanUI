@@ -1,9 +1,6 @@
 ﻿@page "/createEmployee"
 
-@using CleanUI.Models
-@using CleanUI.Services
-@inject EmployeeService EmployeeService
-@inject NavigationManager Navigation
+
 
 <h1>Create Employee</h1>
 
@@ -38,12 +35,26 @@
     </div>
 </div>
 
-@code {
+@code { 
+
     EmployeeModel Employee = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        var authState = await AuthStateProvider.GetAuthenticationStateAsync();
+        var user = authState.User;
+
+        if (!user.Identity.IsAuthenticated)
+        {
+            Navigation.NavigateTo("/login");
+        }
+    }
 
     private async Task HandleSubmit()
     {
-        await EmployeeService.CreateEmpoloyee(Employee);
+        await EmployeeService.CreateEmployee(Employee);
         Navigation.NavigateTo("/fetchproducts");
     }
+
+
 }

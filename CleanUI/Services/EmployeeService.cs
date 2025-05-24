@@ -14,7 +14,7 @@ namespace CleanUI.Services
         }
 
 
-        public async Task CreateEmpoloyee(EmployeeModel employee)
+        public async Task CreateEmployee(EmployeeModel employee)
         {
             await _http.PostAsJsonAsync("api/Employee/CreateEmployee", employee);
         }

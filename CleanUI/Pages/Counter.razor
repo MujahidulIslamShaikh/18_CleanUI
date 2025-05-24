@@ -1,4 +1,7 @@
 ﻿@page "/counter"
+@inject AuthenticationStateProvider AuthStateProvider;
+@inject NavigationManager Navigation
+
 
 <PageTitle>Counter</PageTitle>
 
@@ -10,6 +13,18 @@
 
 @code {
     private int currentCount = 0;
+
+    protected override async Task OnInitializedAsync()
+    {
+        var authState = await AuthStateProvider.GetAuthenticationStateAsync();
+        var user = authState.User;
+
+        if (!user.Identity.IsAuthenticated)
+        {
+            Navigation.NavigateTo("/login");
+        }
+    }
+
 
     private void IncrementCount()
     {

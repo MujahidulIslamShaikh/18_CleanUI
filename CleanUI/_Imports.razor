@@ -8,3 +8,23 @@
 @using Microsoft.JSInterop
 @using CleanUI
 @using CleanUI.Layout
+@using Microsoft.AspNetCore.Components.Authorization
+
+@using Blazored.LocalStorage
+@using CleanUI.Models
+@using CleanUI.Services
+@using Microsoft.AspNetCore.Authorization
+@using static System.Net.WebRequestMethods
+
+@inject AuthService AuthService
+
+@inject CustomAuthStateProvider customAuthStateProvider;
+
+@inject EmployeeService EmployeeService
+@inject NavigationManager Navigation
+@inject ILocalStorageService LocalStorage
+@inject HttpClient _http;
+@inject AuthenticationStateProvider AuthStateProvider;
+
+
+

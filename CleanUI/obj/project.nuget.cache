@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "N4cJTCs7UQ4=",
+  "dgSpecHash": "poOtWdOz4f4=",
   "success": true,
   "projectFilePath": "C:\\Users\\MUSAB\\source\\repos\\Mujahid\\18_CleanUI\\CleanUI\\CleanUI.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\MUSAB\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.7\\microsoft.aspnetcore.authorization.8.0.7.nupkg.sha512",
     "C:\\Users\\MUSAB\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.7\\microsoft.aspnetcore.components.8.0.7.nupkg.sha512",
     "C:\\Users\\MUSAB\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.7\\microsoft.aspnetcore.components.analyzers.8.0.7.nupkg.sha512",
+    "C:\\Users\\MUSAB\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\8.0.5\\microsoft.aspnetcore.components.authorization.8.0.5.nupkg.sha512",
     "C:\\Users\\MUSAB\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\8.0.7\\microsoft.aspnetcore.components.forms.8.0.7.nupkg.sha512",
     "C:\\Users\\MUSAB\\.nuget\\packages\\microsoft.aspnetcore.components.web\\8.0.7\\microsoft.aspnetcore.components.web.8.0.7.nupkg.sha512",
     "C:\\Users\\MUSAB\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\8.0.7\\microsoft.aspnetcore.components.webassembly.8.0.7.nupkg.sha512",
