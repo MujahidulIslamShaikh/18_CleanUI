@@ -20,6 +20,7 @@
     async Task LoginUser()  
     {
         message = await authService.Login(model);
+        Navigation.NavigateTo("/counter", true); // force reload
     }
 }
 
